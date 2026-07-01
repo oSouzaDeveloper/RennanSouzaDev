@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Rennan De Souza, tenho 21 anos e sou natural de Sumaré-SP. Sempre optei em resolver os problemas invés de reclamar deles. Todos os momentos da minha vida até hoje me trouxeram para esta área da tecnologia, me fazendo adquirir paixão pelo o que faço e o desejo de sempre querer ir além e ser desafiado.
+Me chamo Rennan De Souza, tenho 22 anos e sou natural de Sumaré-SP. Sempre optei em resolver os problemas invés de reclamar deles. Todos os momentos da minha vida até hoje me trouxeram para esta área da tecnologia, me fazendo adquirir paixão pelo o que faço e o desejo de sempre querer ir além e ser desafiado.
 
 
 
